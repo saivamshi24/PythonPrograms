@@ -1,0 +1,2 @@
+class NameLengthError(Exception):
+    pass
